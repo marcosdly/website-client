@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": {
+    "name": "Marcos Delay",
+    "email": "dev.marcosdly@gmail.com",
+    "url": "https://marcosdly.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcosdly/website-client.git"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "glob": "^10.3.3",
+    "vite": "^4.4.5"
+  }
+}
